@@ -38,7 +38,7 @@ Estou em constante evolução, buscando desenvolver soluções cada vez mais efi
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,laravel,java,spring,mysql,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,laravel,java,spring,mysql,docker,git,github, Claude-AI-blue" />
   <img src="https://img.shields.io/badge/Claude-AI-blue?style=for-the-badge" />
 </p>
 
