@@ -43,6 +43,7 @@ Estou em constante evolução, buscando desenvolver soluções cada vez mais efi
 
 <p align="center">
   🤖 IA aplicada ao desenvolvimento: Claude AI
+  <img src="https://img.shields.io/badge/Claude-AI-blue?style=flat-square" />
 </p>
 
 <p align="center">
