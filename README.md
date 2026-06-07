@@ -1,16 +1,130 @@
-## Hi there 👋
+<h1 align="center">👨‍💻 Filipe Bento</h1>
 
-<!--
-**FilipeBento21/FilipeBento21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor Web Júnior | Front-end
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/bentofilipe">LinkedIn</a> •
+  <a href="https://portifolio-filipe.lovable.app">Portfólio</a> •
+  <a href="mailto:filipebentoheliodoro@gmail.com">Email</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+Sou Desenvolvedor Web Júnior com foco em Front-end, atuando na criação de interfaces modernas, responsivas e funcionais.
+
+Atualmente trabalho com HTML, CSS, Bootstrap e Laravel, além de participar do desenvolvimento de aplicações fullstack utilizando Java (Spring Boot), React e integração com APIs.
+
+Tenho experiência com bancos de dados MySQL, utilizando phpMyAdmin, e aplico boas práticas de organização como o padrão MVC.
+
+Estou em constante evolução, buscando desenvolver soluções cada vez mais eficientes e profissionais.
+
+---
+
+## 🧠 O que eu sei fazer
+
+✔ Criar interfaces responsivas (Mobile First)  
+✔ Desenvolver aplicações web completas (Front + Back)  
+✔ Integrar APIs REST  
+✔ Trabalhar com versionamento usando Git e GitHub  
+✔ Organizar projetos com padrão MVC  
+✔ Utilizar bancos de dados relacionais (MySQL)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,laravel,java,spring,mysql,docker,git,github" />
+</p>
+
+<p align="center">
+  <b>Front-end:</b> HTML5, CSS3, Bootstrap, JavaScript, React, Tailwind <br>
+  <b>Back-end:</b> Laravel, Java (Spring Boot) <br>
+  <b>Banco de Dados:</b> MySQL (phpMyAdmin) <br>
+  <b>Outros:</b> Docker, Git, GitHub
+</p>
+
+---
+
+## 📂 Projetos em destaque
+
+### ✂️ Sistema de Agendamento para Barbearia (Spring Boot)
+Sistema backend desenvolvido em Java com Spring Boot para gerenciamento de agendamentos.
+
+🔹 API REST  
+🔹 Estrutura em camadas (Controller, Service, Repository)  
+🔹 Integração com banco de dados  
+
+🔗 https://github.com/FilipeBento21/agendamento-barbearia-spring  
+
+---
+
+### ❄️ Mais Climatização - Sistema de Agendamentos (Fullstack)
+Projeto completo desenvolvido em grupo com front-end e back-end integrados.
+
+🔹 Front-end: React + Tailwind  
+🔹 Back-end: Java Spring Boot  
+🔹 Banco de dados com Docker  
+🔹 Integração completa via API REST  
+
+🔗 https://github.com/swetonyancelmo/agendamentos-ui  
+
+---
+
+### 🌐 Estudos de HTML e CSS
+Prática de criação de layouts e responsividade.
+
+🔗 https://github.com/FilipeBento21/estudo-de-html-css  
+
+---
+
+### 🎨 Estudos com Bootstrap
+Exploração de componentes e responsividade.
+
+🔗 https://github.com/FilipeBento21/estudo-bootstrap-html  
+
+---
+
+## 📈 Em evolução
+
+Atualmente estou focado em:
+
+- ⚛️ React (componentização e boas práticas)
+- 🧱 Arquitetura de aplicações web
+- 🚀 APIs REST com Spring Boot
+- 🐳 Docker e ambientes de desenvolvimento
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FilipeBento21&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeBento21&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FilipeBento21&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contato
+
+📧 Email: filipebentoheliodoro@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/bentofilipe  
+🌐 Portfólio: https://portifolio-filipe.lovable.app  
+
+---
+
+## ⚡ Curiosidade
+
+Gosto de transformar ideias em projetos reais e estou sempre evoluindo minhas habilidades para me tornar um desenvolvedor cada vez mais completo 🚀
