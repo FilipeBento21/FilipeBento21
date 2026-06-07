@@ -39,13 +39,14 @@ Estou em constante evolução, buscando desenvolver soluções cada vez mais efi
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,laravel,java,spring,mysql,docker,git,github" />
+  <img src="https://img.shields.io/badge/Claude-AI-blue?style=for-the-badge" />
 </p>
 
 <p align="center">
   <b>Front-end:</b> HTML5, CSS3, Bootstrap, JavaScript, React, Tailwind <br>
   <b>Back-end:</b> Laravel, Java (Spring Boot) <br>
   <b>Banco de Dados:</b> MySQL (phpMyAdmin) <br>
-  <b>Outros:</b> Docker, Git, GitHub
+  <b>Outros:</b> Docker, Git, GitHub, Assistentes de IA (Claude AI)
 </p>
 
 ---
